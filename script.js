@@ -48,7 +48,7 @@ for (let item of my_array) {
     console.log(item);
 }
 
-
+// შვიდი
 
 // რვა 
 // 6 === “6”
