@@ -2,7 +2,7 @@
 // ..........................
 
 
-// პირველი
+// ერთი
 let cars = ['audi', 'bmw', 'lexus', 'volkswagen', 'porsche', 'audi'];
 
 for (let i=1; i < cars.length; i++) {
@@ -10,7 +10,7 @@ for (let i=1; i < cars.length; i++) {
 }
 
 
-// მეორე
+// ორი
 let names = ['maya', 'tea', 'tako', 'ia', 'nika'];
 for (let item of names) {
     if(item.length > 3) {
